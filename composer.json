@@ -1,0 +1,12 @@
+{
+    "name": "qcovery/dismax-munge",
+    "description": "Addition to the search configuration of VuFind",
+    "type": "qcovery-module",
+    "require": {
+        "php": ">=7.3",
+        "qcovery/vufind-composer-installer-plugin": "*"
+    },
+    "extra": {
+        "moduleName": "DismaxMunge"
+    }
+}
